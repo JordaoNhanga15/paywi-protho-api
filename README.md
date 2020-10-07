@@ -23,7 +23,7 @@ module.exports = {
 
 ```
 
-### Compiles and hot-reloads for development
+### Run
 ```
 node .\index.js
 ```
